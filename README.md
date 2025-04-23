@@ -16,4 +16,4 @@ The dataset used contains features such as:
 
 Dataset was imported as:
 ```python
-housing = pd.read_csv("../input/Housing.csv")
+housing = pd.read_csv("/content/Housing_final_dataset.csv")
